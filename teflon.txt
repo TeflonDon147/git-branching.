@@ -24,7 +24,7 @@ HELLO Teflon!
            | || |           | |   | |
            |_||_|           |_|   |_|
           /_//_/           /_/   /_/
-GOODBYE Teflon!
+GOODBYE  Teflon!
                    .     _,
                    |`\__/ /
                    \  . .(
